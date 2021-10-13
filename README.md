@@ -17,10 +17,12 @@
 
 :man_technologist:  api_dev
 
+* github : https://github.com/dongho108
 * blog: https://ksabs.tistory.com
 
 :woman_technologist:  konrini
 
+* github : https://github.com/konrini
 * blog: https://konrini.tistory.com
 
 ## About Study

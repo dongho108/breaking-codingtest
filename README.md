@@ -15,20 +15,24 @@
 
 ## Author
 
-👤  api_dev
+:man_technologist:  api_dev
 
 * blog: https://ksabs.tistory.com
 
-👤  konrini
+:woman_technologist:  konrini
 
 * blog: https://konrini.tistory.com
 
 ## About Study
- <br><br>
-<br>
 기업 코딩테스트 대비하기 위한 알고리즘 스터디입니다.
+<br>
 전원 네카라쿠배 취직할 때까지 스터디는 계속 진행됩니다.
+<br>
+<u>10/13 현재 목표</u>
+넷마블 코딩테스트 (10/16)
+우아한테크코스 코딩테스트 (11월 예정)
 
+<br>
 ## Study Plan
 ### Study Rule
 * 주말을 제외한 주중에는 1일 1문제를 풀도록 합니다.

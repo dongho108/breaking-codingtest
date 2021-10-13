@@ -1,8 +1,37 @@
-## problem
-day1
-* Quest : p86051
-* Link : https://programmers.co.kr/learn/courses/30/lessons/86051
+<h1 align="center"> Python Coding Test Study </h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/dongho108/ClassFlix" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+</p>
 
+>  The purpose is to break the Python coding test.
+
+
+## Skill
+> Python 3.7 <br>
+
+
+## Author
+
+👤  api_dev
+
+* blog: https://ksabs.tistory.com
+* project review: https://ksabs.tistory.com/131?category=1016104
+
+👤  konrini
+
+* blog: 
+* project review: 
+
+## About Study
+ <br><br>
+<br>
+
+## Study Plan
+
+## Stduy Rule
 
 ## 스터디 현황
 ### week1

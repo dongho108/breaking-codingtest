@@ -22,7 +22,7 @@
 
 👤  konrini
 
-* blog: 
+* blog: https://konrini.tistory.com
 * project review: 
 
 ## About Study

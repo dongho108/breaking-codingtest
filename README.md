@@ -1,7 +1,7 @@
 <h1 align="center"> Python Coding Test Study </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/dongho108/ClassFlix" target="_blank">
+  <a href="https://github.com/dongho108/breaking-codingtest" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
@@ -26,6 +26,8 @@
 ## About Study
  <br><br>
 <br>
+기업 코딩테스트 대비하기 위한 알고리즘 스터디입니다.
+전원 네카라쿠배 취직할 때까지 스터디는 계속 진행됩니다.
 
 ## Study Plan
 ### Study Rule

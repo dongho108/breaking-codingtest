@@ -18,12 +18,10 @@
 👤  api_dev
 
 * blog: https://ksabs.tistory.com
-* project review: https://ksabs.tistory.com/131?category=1016104
 
 👤  konrini
 
 * blog: https://konrini.tistory.com
-* project review: 
 
 ## About Study
  <br><br>

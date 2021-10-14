@@ -56,9 +56,8 @@
 4. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
 
 ### commit message
-* 문제 commit시 : add {week}/{day} {QuestName}{.py} by {userId}
-<br>
-ex) add week1/Wed p86051.py by api_dev <br>
+* 문제 commit시 : add {week}/{day} {QuestName}{.py} by {userId}\
+ex) add week1/Wed p86051.py by api_dev
 * README.md : update README.md
 
 ## Study Status

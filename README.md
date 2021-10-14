@@ -52,13 +52,13 @@
 1. 번갈아가며 다음날에 풀 문제를 정합니다. 문제가 정해지면 Issue에 추가합니다. <br>
 ( 백준은 b{문제번호}, 프로그래머스는 p{문제번호}, 릿코드는 l{문제번호} )
 2. 프로젝트 폴더는 주단위 - 요일단위로 구분되어 있으며 해당 요일폴더에 맞게 코드를 작성합니다.
-3. python 파일이름 규칙은 {자신의ID}+{QuestName}+{.py} 입니다.
+3. python 파일이름 규칙은 {자신의ID}_{QuestName}{.py} 입니다.
 4. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
 
 ### commit message
 * 문제 commit시 : add {week}/{day} {QuestName}{.py} by {userId}
 <br>
-ex) add week1/Wed p86051.py by api_dev
+ex) add week1/Wed p86051.py by api_dev <br>
 * README.md : update README.md
 
 ## Study Status
@@ -66,7 +66,7 @@ ex) add week1/Wed p86051.py by api_dev
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
-|api_dev|||:white_check_mark:|||||
+|api_dev|||:white_check_mark:|:white_check_mark:||||
 |konrini|||:white_check_mark:|||||
 
 ### week2

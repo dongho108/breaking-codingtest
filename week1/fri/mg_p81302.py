@@ -26,7 +26,7 @@ def square(graph):
 def rectangle_v(graph):
     lst = []
     for x in range(5):
-        for y in range(2):
+        for y in range(3):
             lst.append(graph[x][y]) # 기준
             lst.append(graph[x][y+1]) # 오른쪽        
             lst.append(graph[x][y+2]) # 오른쪽 오른쪽
@@ -44,7 +44,7 @@ def rectangle_v(graph):
 def rectangle_h(graph):
     lst = []
     for y in range(5):
-        for x in range(2):
+        for x in range(3):
             lst.append(graph[x][y]) # 기준
             lst.append(graph[x+1][y]) # 아래        
             lst.append(graph[x+2][y]) # 아래 아래

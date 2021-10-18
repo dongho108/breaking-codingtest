@@ -1,18 +1,12 @@
-def swap(x, y):
-    return y, x
-
-
 def solution(sizes):
     height = []
     width = []
 
-    for size in sizes:
-        height.append(size[0])
-        width.append(size[1])
-
-    for i in range(len(height)):
+    for i in range(len(sizes)):
+        height.append(sizes[i][0])
+        width.append(sizes[i][1])
         if height[i] < width[i]:
-            height[i], width[i] = swap(height[i], width[i])
+            height[i], width[i] = width[i], height[i]
 
     return max(height) * max(width)
 

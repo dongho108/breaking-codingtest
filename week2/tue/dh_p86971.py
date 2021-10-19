@@ -5,7 +5,6 @@ def bfs(x, y, graph):
     queue = deque()
     queue.append(x)
     visited = [0 for i in range(len(graph))]
-    visited[x] = 1
     visited[y] = 1
     count = 0
     while queue:

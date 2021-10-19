@@ -21,7 +21,7 @@ def bfs(tree, n, start1, start2):
     visited = [False] * (n+1)
     queue = [start1]
     while queue:
-        a = queue.pop()
+        a = queue.pop(0)
         if a == start2:
             continue
         if not visited[a]:

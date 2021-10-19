@@ -13,7 +13,6 @@ def solution(n, wires):
             tree[edge[1]] = [edge[0]]
         
     for start1, start2 in wires:
-        visited = [False] * (n+1)
         answer = min(answer, abs(bfs(tree, n, start1, start2) - bfs(tree, n, start2, start1)))
     return answer
         

@@ -1,16 +1,6 @@
 from collections import deque
 
 
-def set_t_graph(x, y, graph):
-    t_graph = [[] for i in range(len(graph))]
-
-    for i in range(len(graph)):
-        for j in range(len(graph[i])):
-            if not ((i == x and graph[i][j] == y) or (i == y and graph[i][j] == x)):
-                t_graph[i].append(graph[i][j])
-    return t_graph
-
-
 def bfs(x, y, graph):
     queue = deque()
     queue.append(x)
@@ -29,9 +19,8 @@ def bfs(x, y, graph):
 
 
 def bin_bfs(x, y, graph):
-    t_graph = set_t_graph(x, y, graph)
-    left = bfs(x, y, t_graph)
-    right = bfs(y, x, t_graph)
+    left = bfs(x, y, graph)
+    right = bfs(y, x, graph)
 
     return abs(left - right)
 

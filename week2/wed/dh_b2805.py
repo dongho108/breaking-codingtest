@@ -12,6 +12,8 @@ while left <= right:
     for height in heights:
         if 0 < height - center:
             total_wood += (height - center)
+            if m < total_wood:
+                break
 
     if m < total_wood:
         answer = center

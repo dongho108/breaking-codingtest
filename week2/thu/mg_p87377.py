@@ -1,7 +1,7 @@
 def solution(line):
     # 교점 구하기
     intersection = set()
-    min_x, max_x, min_y, max_y = 1e15, -1e15, 1e15, -1e15
+    min_x, max_x, min_y, max_y = 1e11, -1e11, 1e11, -1e11
     for i in range(len(line)-1):
         for j in range(i+1, len(line)):
             # AD-BC != 0

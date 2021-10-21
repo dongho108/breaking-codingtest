@@ -31,7 +31,7 @@
 전원 네카라쿠배 취직할 때까지 스터디는 계속 진행됩니다.
 <br>
 
-<U> 10월 18일 현재 목표 </U>
+**10월 21일 현재 목표**
 <br>
 LG CNS 코딩테스트 (10/23)
 <br>
@@ -71,7 +71,7 @@ ex) add week1/Wed p86051.py by api_dev
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
-|konrini|:white_check_mark:|:white_check_mark:||||||
+|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
 
 ### week3
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|

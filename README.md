@@ -25,6 +25,10 @@
 * github : https://github.com/konrini
 * blog: https://konrini.tistory.com
 
+:man_technologist:  koalakid1
+
+* github : https://github.com/koalakid1
+
 ## About Study
 기업 코딩테스트 대비하기 위한 알고리즘 스터디입니다.
 <br>

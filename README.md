@@ -75,7 +75,7 @@ ex) add week1/Wed p86051.py by api_dev
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
-|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
+|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
 |koalakid1||||:white_check_mark:|:white_check_mark:|||
 
 ### week3

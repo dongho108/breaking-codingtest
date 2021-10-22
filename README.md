@@ -59,8 +59,10 @@ LG CNS 코딩테스트 (10/23)
 4. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
 
 ### commit message
-* 문제 commit시 : add {week}/{day} {QuestName}{.py} by {userId}\
-ex) add week1/Wed p86051.py by api_dev
+* 문제 add시 : add {QuestName}{.py}\
+ex) add p86051.py
+* 문제 update시 : update {QuestName}{.py} {(update내용 간단하게)}\
+ex) update p86051.py (add enumerate method)
 * README.md : update README.md
 
 ## Study Status

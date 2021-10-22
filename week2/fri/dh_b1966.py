@@ -7,20 +7,17 @@ for case in range(cases):
 
     temp = list(map(int, input().split()))
     queue = deque()
-    for i in range(len(temp)):
-        queue.append([i, temp[i]])
-
+    for i, t in enumerate(temp):
+        queue.append((t, i))
+    max_value = max(queue)[0]
     while True:
-        inx, x = queue.popleft()
-        check = False
-        for i in range(len(queue)):
-            if x < queue[i][1]:
-                queue.append([inx, x])
-                check = True
-                break
-        if not check:
+        imp, inx = queue.popleft()
+        if max_value == imp:
             answer += 1
             if m == inx:
                 break
+            max_value = max(queue)[0]
+        else:
+            queue.append((imp, inx))
     print(answer)
 

@@ -57,6 +57,7 @@ LG CNS 코딩테스트 (10/23)
 2. 프로젝트 폴더는 주단위 - 요일단위로 구분되어 있으며 해당 요일폴더에 맞게 코드를 작성합니다.
 3. python 파일이름 규칙은 {자신의ID}_{QuestName}{.py} 입니다.
 4. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
+5. 이슈에서 다른 분들의 코드에 본인이 느낀 코멘트를 달아주세요 (필수)
 
 ### commit message
 * 문제 add시 : add {QuestName}{.py}\

@@ -84,7 +84,7 @@ ex) update p86051.py (add enumerate method)
 |------|---|---|---|---|---|---|---|
 |api_dev|:white_check_mark:|||||||
 |konrini|:white_check_mark:|||||||
-|koalakid1||||||||
+|koalakid1|:white_check_mark:|||||||
 
 ### week4
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|

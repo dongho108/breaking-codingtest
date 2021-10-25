@@ -60,8 +60,8 @@ LG CNS 코딩테스트 (10/23)
 5. 이슈에서 다른 분들의 코드에 본인이 느낀 코멘트를 달아주세요 (필수)
 
 ### commit message
-* 문제 add시 : add {QuestName}{.py}\
-ex) add p86051.py
+* 문제 add시 : add {QuestName}{.py} {#issueNum}\
+ex) add dh_p86051.py (#8)
 * 문제 update시 : update {QuestName}{.py} {(update내용 간단하게)}\
 ex) update p86051.py (add enumerate method)
 * README.md : update README.md

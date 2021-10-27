@@ -15,4 +15,3 @@ class Solution:
                 print(end, start)
                 start = end + 1
         return answer
-

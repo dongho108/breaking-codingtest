@@ -89,9 +89,9 @@ ex) update p86051.py (add enumerate method)
 ### week3
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
-|koalakid1|:white_check_mark:||:white_check_mark:|||
+|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|
+|koalakid1|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 ### week4
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|

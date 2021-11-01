@@ -38,7 +38,8 @@
 ## 지원회사
 |ID|날짜|회사|합격|불합격|
 |---|---|------|---|---|
-|api_dev|11/6|우아한테크코스|||
+|konrini|09/30|LG CNS|||
+|api_dev|11/06|우아한테크코스|||
 <br>
 
 ## :fire: mind set :fire:
@@ -93,11 +94,11 @@ ex) update p86051.py (add enumerate method)
 |konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|
 |koalakid1|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
-### week4
+### week4 (11/01~11/05)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
 |api_dev|:white_check_mark:|||||
-|konrini||||||
+|konrini|:white_check_mark:|||||
 |koalakid1||||||
 
 ### week5

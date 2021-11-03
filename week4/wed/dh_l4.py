@@ -20,11 +20,11 @@ def solution(nums1, nums2):
         nums3 += nums1[inx1:]
 
     if len(nums3) % 2 == 1:
-        return float(format(nums3[len(nums3) // 2], ".5f"))
+        return nums3[len(nums3) // 2]
     else:
         n1 = nums3[len(nums3) // 2]
         n2 = nums3[len(nums3) // 2 - 1]
-        return float(format((n1 + n2) / 2, ".5f"))
+        return (n1 + n2) / 2
 
 
 print(solution([], [2, 3]))

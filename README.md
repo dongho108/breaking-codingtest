@@ -38,7 +38,7 @@
 ## 지원회사
 |ID|날짜|회사|합격|불합격|
 |---|---|------|---|---|
-|konrini|09/30|LG CNS|||
+|konrini|09/30|LG CNS||:heavy_check_mark:|
 |api_dev|11/06|우아한테크코스|||
 <br>
 
@@ -101,11 +101,11 @@ ex) update p86051.py (add enumerate method)
 |konrini|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|
 |koalakid1||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
-### week5
+### week5 (11/08~11/12)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
-|konrini||||||
+|konrini|||:white_check_mark:|||
 |koalakid1|:white_check_mark:|:white_check_mark:||||
 
 ### week6

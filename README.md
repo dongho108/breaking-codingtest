@@ -111,7 +111,7 @@ ex) update p86051.py (add enumerate method)
 ### week6
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-|api_dev||||||
+|api_dev||:white_check_mark:||||
 |konrini||||||
 |koalakid1||||||
 

@@ -39,7 +39,7 @@
 |ID|날짜|회사|결과발표|합격|불합격|
 |---|---|------|---|---|---|
 |konrini|09/30|LG CNS|11/09||:heavy_check_mark:|
-|api_dev|11/06|우아한테크코스|11/19|||
+|api_dev|11/06|우아한테크코스|11/19|:heavy_check_mark:||
 <br>
 
 ## :fire: mind set :fire:

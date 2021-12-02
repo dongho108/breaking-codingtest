@@ -38,6 +38,7 @@
 ## 지원회사
 |ID|날짜|회사|결과발표|합격|불합격|
 |---|---|------|---|---|---|
+|konrini|09/27|CJ 올리브네트웍스|11/25||:heavy_check_mark:|
 |konrini|09/30|LG CNS|11/09||:heavy_check_mark:|
 |api_dev|11/06|우아한테크코스|11/19|:heavy_check_mark:||
 <br>
@@ -121,5 +122,5 @@ ex) update p86051.py (add enumerate method)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-|konrini||||||
+|konrini||:white_check_mark:|:white_check_mark:|||
 |koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|||

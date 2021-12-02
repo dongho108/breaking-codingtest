@@ -123,4 +123,4 @@ ex) update p86051.py (add enumerate method)
 |------|---|---|---|---|---|
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
 |konrini||:white_check_mark:|:white_check_mark:|||
-|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
+|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|

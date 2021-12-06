@@ -124,3 +124,31 @@ ex) update p86051.py (add enumerate method)
 |api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 |konrini||:white_check_mark:|:white_check_mark:||:white_check_mark:|
 |koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+
+### week9 (12/06~12/10)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|api_dev||||||
+|konrini||||||
+|koalakid1|:white_check_mark:|||||
+
+### week10 (12/13~12/17)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|api_dev||||||
+|konrini||||||
+|koalakid1||||||
+
+### week11 (12/20~12/24)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|api_dev||||||
+|konrini||||||
+|koalakid1||||||
+
+### week12 (12/27~12/31)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|api_dev||||||
+|konrini||||||
+|koalakid1||||||

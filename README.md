@@ -15,14 +15,17 @@
 
 ## 1기 수료자 OutPut
 :man_technologist:  api_dev
+<br>
 우아한테크코스 백엔드 4기과정 합격
 <br>
 
 :woman_technologist:  konrini
+<br>
 SSAFY 7기 합격
 <br>
 
 :man_technologist:  koalakid1
+<br>
 SW마에스트로 12기 우수수료자
 <br>
 

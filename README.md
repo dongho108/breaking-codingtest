@@ -1,4 +1,4 @@
-<h1 align="center"> Python Coding Test Study </h1>
+<h1 align="center"> Breaking Coding Test Study 1기 </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/dongho108/breaking-codingtest" target="_blank">
@@ -6,8 +6,25 @@
   </a>
 </p>
 
->  The purpose is to break the Python coding test.
+>  코테를 부시자. 코테를 탈출하자.
 
+## 1기 종료
+> 현재 브코테 1기가 종료되었습니다. <br>
+> 스터디 깃허브 양식과 자세한 진행방법이 궁금하신 분은 ```dongho108@naver.com``` 으로 메일을 남겨주세요. <br>
+
+
+## 1기 수료자 OutPut
+:man_technologist:  api_dev
+우아한테크코스 백엔드 4기과정 합격
+<br>
+
+:woman_technologist:  konrini
+SSAFY 7기 합격
+<br>
+
+:man_technologist:  koalakid1
+SW마에스트로 12기 우수수료자
+<br>
 
 ## Skill
 > Python 3.7 <br>
@@ -48,6 +65,7 @@
 2. 내 코드가 동료의 코드보다 더 좋다면 알려줍니다.
 3. 좋은 코드를 짜기위해 끊임없이 노력합니다.
 4. 불참사유에는 '힘들어서', '귀찮아서'는 없습니다.
+
 
 ## Study Plan
 ### Study Rule
